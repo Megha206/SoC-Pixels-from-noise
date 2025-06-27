@@ -32,7 +32,9 @@ All these concepts operate under the framework of Linear Shift-Invariant (LSI) s
 
 In this week, I started writing code for the things that I studied about in the previous three weeks. The objective of this week was to write the code for a few commonly used image filters like, inversion filter, correlation, blurring, sharpening and edge detection. 
 
-I have included a file in the repo that consists of the code for the same. 
+I have included a file called **Filters.py** in the repo that consists of the code for the same. 
+
+In addition to the materials provided by my mentor, I explored OpenCV further, and did a few small projects. These include exploring the usage of Haar Cascade Filters for face and eye detection, canny edge detection and a simple RBG color detector. This helped me explore the applications of OpenCV, using the theory that I learnt during these 4 weeks. I have uploaded the codes for the above too. 
 
 
 
